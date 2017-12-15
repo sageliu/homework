@@ -1,0 +1,19 @@
+@全体成员 我们第一次的论文作业评比开始了。请给你认为最好的文章投票，截止日期为这周日中午。投编号即可。
+论文题目 
+前端应用全链路原理及优化
+参赛文章
+1. https://github.com/zz-fe/Architecture-Course/blob/master/%E7%AC%AC%E4%B8%80%E8%8A%82%E8%AF%BE/%E5%BC%A0%E6%8C%AF/README%20.md
+2. https://github.com/zz-fe/Architecture-Course/blob/master/%E7%AC%AC%E4%B8%80%E8%8A%82%E8%AF%BE/%E6%9D%8E%E7%8E%89%E7%A3%8A/%E6%9D%8E%E7%8E%89%E7%A3%8A.md
+3. https://github.com/zz-fe/Architecture-Course/blob/master/%E7%AC%AC%E4%B8%80%E8%8A%82%E8%AF%BE/%E5%B8%88%E9%B9%8F/README.md
+4. https://github.com/sunyongjian/blog/issues/34
+5. https://github.com/jiangtao/blog/issues/16
+6. https://github.com/hanxinran/homework/issues/1
+7. https://github.com/geeknull/front-end-knowledge/blob/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E4%B8%8E%E4%BC%98%E5%8C%96.md
+8. http://wupengli.cn/2017/09/08/HTTP/HTTP%20%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BC%98%E5%8C%96/#more
+9. https://github.com/skybjf/GrowthPlan/blob/master/HTTP/%E4%BB%8E%E5%89%8D%E7%AB%AF%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BC%98%E5%8C%96.md
+10. https://github.com/zhaiyy/Article/tree/master/Front%20end%20full%20link%20optimization
+11. https://github.com/lvsongfeng/fed-optimize/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96.md
+12. https://github.com/woshi555bin/full-link/blob/master/%E4%BB%8E%E5%89%8D%E7%AB%AF%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BC%98%E5%8C%96.md
+13. https://github.com/samuelgg/doc/wiki/full-link
+14. https://github.com/masan20060547/-/wiki/%E4%BB%8E%E5%89%8D%E7%AB%AF%E5%BC%80%E5%A7%8B%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BC%98%E5%8C%96
+15. https://jiankafei.github.io/web/full-link-optimization/
